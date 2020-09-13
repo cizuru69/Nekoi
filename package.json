@@ -24,7 +24,7 @@
     "dotenv": "^8.2.0",
     "got": "^11.3.0",
     "minecraft-server-util": "^1.1.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "novelcovid": "^1.2.7",
     "novelcovid-scraper": "^1.2.2",
     "npm": "^6.14.6",
