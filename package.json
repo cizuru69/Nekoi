@@ -22,7 +22,7 @@
     "discord.js-poll-embed": "^1.0.2",
     "discord.js-tictactoe": "^1.0.2",
     "dotenv": "^8.2.0",
-    "got": "^11.3.0",
+    "got": "^11.8.5",
     "minecraft-server-util": "^1.1.1",
     "node-fetch": "^2.6.0",
     "novelcovid": "^1.2.7",
